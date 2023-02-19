@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">621129289016</string>
+    <string name="google_api_key" translatable="false">AIzaSyB8l0spHCw_pKmePGOmKXEajgZiPct-Xao</string>
+    <string name="google_app_id" translatable="false">1:621129289016:android:10f3ec7b59bc9479c885cd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyB8l0spHCw_pKmePGOmKXEajgZiPct-Xao</string>
+    <string name="google_storage_bucket" translatable="false">radio-5a68f.appspot.com</string>
+    <string name="project_id" translatable="false">radio-5a68f</string>
+</resources>

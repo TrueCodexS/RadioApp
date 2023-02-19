@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/xRadio.iml" filepath="$PROJECT_DIR$/.idea/modules/xRadio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.main.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/SeekArc_library/xRadio.SeekArc_library.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xRadio.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xRadio.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xRadio.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xRadio.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xRadio.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xRadio.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/xRadio.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/xRadio.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.iml" filepath="$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.main.iml" filepath="$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/equalizerview/xRadio.equalizerview.unitTest.iml" />
+    </modules>
+  </component>
+</project>

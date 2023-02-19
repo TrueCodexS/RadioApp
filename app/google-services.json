@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "621129289016",
+    "project_id": "radio-5a68f",
+    "storage_bucket": "radio-5a68f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621129289016:android:b2a7d9d6192d706dc885cd",
+        "android_client_info": {
+          "package_name": "com.app.radionesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l0spHCw_pKmePGOmKXEajgZiPct-Xao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621129289016:android:73afdf475af88606c885cd",
+        "android_client_info": {
+          "package_name": "com.oraetlabora.kutim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l0spHCw_pKmePGOmKXEajgZiPct-Xao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621129289016:android:10f3ec7b59bc9479c885cd",
+        "android_client_info": {
+          "package_name": "com.radio.kutai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l0spHCw_pKmePGOmKXEajgZiPct-Xao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:621129289016:android:4019d09c9a138915c885cd",
+        "android_client_info": {
+          "package_name": "pro.karinesia.radiobox"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8l0spHCw_pKmePGOmKXEajgZiPct-Xao"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "621129289016-5o88qmt725npbbhkig6eb57qs5v3222l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

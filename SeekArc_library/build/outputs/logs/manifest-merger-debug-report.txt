@@ -1,0 +1,41 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+	package
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:25:5-38
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:1-33:12
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:24:11-69
+application
+ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:28:5-31:19
+	android:allowBackup
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:29:9-35
+uses-sdk
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		ADDED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+		INJECTED from /Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml

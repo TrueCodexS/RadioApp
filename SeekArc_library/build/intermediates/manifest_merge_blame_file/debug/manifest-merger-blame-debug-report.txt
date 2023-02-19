@@ -1,0 +1,41 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  The MIT License (MIT)
+4  
+5  Copyright (c) 2013 Triggertrap Ltd
+6  Author Neil Davies
+7  
+8  Permission is hereby granted, free of charge, to any person obtaining a copy of
+9  this software and associated documentation files (the "Software"), to deal in
+10  the Software without restriction, including without limitation the rights to
+11  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+12  the Software, and to permit persons to whom the Software is furnished to do so,
+13  subject to the following conditions:
+14  
+15  The above copyright notice and this permission notice shall be included in all
+16  copies or substantial portions of the Software.
+17  
+18  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+19  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+20  FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+21  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+22  IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+23  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+24-->
+25<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+26    package="com.triggertrap.seekarc"
+27    android:versionCode="2"
+28    android:versionName="1.1" >
+29
+30    <uses-sdk
+31        android:minSdkVersion="17"
+31-->/Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+32        android:targetSdkVersion="30" />
+32-->/Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml
+33
+34    <application android:allowBackup="true" >
+34-->/Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:28:5-31:19
+34-->/Users/deviakbar_1/AndroidStudioProjects/xRadio/SeekArc_library/AndroidManifest.xml:29:9-35
+35    </application>
+36
+37</manifest>

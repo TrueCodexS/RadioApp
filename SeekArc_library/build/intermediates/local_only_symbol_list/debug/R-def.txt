@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+attr? arcColor
+attr? arcWidth
+attr? clockwise
+attr? enabled
+attr? progress
+attr? progressColor
+attr? progressWidth
+attr? rotation
+attr? roundEdges
+attr? seekArcStyle
+attr? seekarc_max
+attr? startAngle
+attr? sweepAngle
+attr? thumb
+attr? thumbOffset
+attr? touchInside
+color default_blue_light
+color progress_gray
+color progress_gray_dark
+drawable ic_launcher
+drawable scrubber_control_disabled_holo
+drawable scrubber_control_focused_holo
+drawable scrubber_control_normal_holo
+drawable scrubber_control_pressed_holo
+drawable seek_arc_control_selector
+drawable thumb_default
+string app_name
+style SeekArc
+style SeekArcLight
+styleable SeekArc thumb thumbOffset seekarc_max progressWidth arcWidth progress rotation startAngle sweepAngle arcColor progressColor roundEdges touchInside clockwise enabled
+styleable SeekArcTheme seekArcStyle

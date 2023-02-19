@@ -1,0 +1,45 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/values-hdpi/dimens.xml",
+                    "from": {
+                        "startLines": "8,3,6,7,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "264,21,166,217,68,118",
+                        "endColumns": "41,45,49,45,48,46",
+                        "endOffsets": "301,62,211,258,112,160"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,143,193,239,288",
+                        "endColumns": "41,45,49,45,48,46",
+                        "endOffsets": "92,138,188,234,283,330"
+                    }
+                },
+                {
+                    "source": "/Users/deviakbar_1/.gradle/caches/transforms-2/files-2.1/e7700bf3fcf4236768ca476b82b72080/appcompat-1.2.0/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    },
+                    "to": {
+                        "startLines": "8",
+                        "startColumns": "4",
+                        "startOffsets": "335",
+                        "endLines": "12",
+                        "endColumns": "13",
+                        "endOffsets": "607"
+                    }
+                }
+            ]
+        }
+    ]
+}

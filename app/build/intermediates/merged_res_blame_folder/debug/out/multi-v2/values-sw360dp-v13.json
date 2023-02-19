@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw360dp-v13/values-sw360dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/values-sw360dp/dimens.xml",
+                    "from": {
+                        "startLines": "2,3,6,7,4,5",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "19,62,207,258,109,159",
+                        "endColumns": "41,45,49,45,48,46",
+                        "endOffsets": "56,103,252,299,153,201"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,143,193,239,288",
+                        "endColumns": "41,45,49,45,48,46",
+                        "endOffsets": "92,138,188,234,283,330"
+                    }
+                }
+            ]
+        }
+    ]
+}

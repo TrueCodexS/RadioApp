@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:tools="http://schemas.android.com/tools"
+    package="com.radio.kutai"
+          xmlns:android="http://schemas.android.com/apk/res/android"
+>
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="false" />
+
+    <application
+        android:name="com.radio.kutai.XRadioApplication"
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
+        android:icon="@mipmap/ic_launcher"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:label="@string/app_name"
+        android:theme="@style/AppThemeFull"
+        tools:ignore="LockedOrientationActivity"
+        >
+        <activity
+            android:name="com.radio.kutai.XRadioSplashActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.radio.kutai.XMultiRadioMainActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan|adjustResize"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+        </activity>
+        <activity
+            android:name="com.radio.kutai.XSingleRadioMainActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:windowSoftInputMode="adjustPan|adjustResize"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+        </activity>
+
+        <activity
+            android:name="com.radio.kutai.XRadioShowUrlActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+        <activity
+            android:name="com.radio.kutai.XRadioGrantActivity"
+            android:configChanges="touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait"
+            >
+        </activity>
+
+        <service
+            android:name="com.radio.kutai.stream.service.YPYStreamService"
+            android:exported="false">
+        </service>
+
+        <receiver android:name="com.radio.kutai.stream.service.YPYIntentReceiver"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="android.media.AUDIO_BECOMING_NOISY"/>
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MEDIA_BUTTON"/>
+            </intent-filter>
+        </receiver>
+
+        <!--Firebase Notification-->
+
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_channel_id"
+            android:value="${applicationId}.N3"/>
+
+        <service
+            android:name="com.radio.kutai.firebasemsg.XRadioFBMessagingService"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="com.google.firebase.MESSAGING_EVENT"/>
+            </intent-filter>
+        </service>
+
+        <!-- Set custom default icon. This is used when no icon is set for incoming notification messages.
+        See README(https://goo.gl/l4GJaQ) for more. -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_icon"
+            android:resource="@drawable/ic_notification_24dp"/>
+
+        <!-- Set color used with incoming notification messages. This is used when no color is set for the incoming
+             notification message. See README(https://goo.gl/6BKBk7) for more. -->
+        <meta-data
+            android:name="com.google.firebase.messaging.default_notification_color"
+            android:resource="@color/colorPrimary"/>
+
+        <meta-data android:name="firebase_messaging_auto_init_enabled"
+                   android:value="true"/>
+        <meta-data android:name="firebase_analytics_collection_enabled"
+                   android:value="true"/>
+
+
+        <service
+            android:exported="false"
+            android:name="com.radio.kutai.firebasemsg.XRadioJobService">
+            <intent-filter>
+                <action android:name="com.firebase.jobdispatcher.ACTION_EXECUTE"/>
+            </intent-filter>
+        </service>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.AD_MANAGER_APP"
+            android:value="true"/>
+            
+        <uses-library android:name="org.apache.http.legacy" android:required="false"/>
+
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="@string/admob_app_id" />
+
+    </application>
+
+</manifest>

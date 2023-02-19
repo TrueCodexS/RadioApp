@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--    Ad types can be facebook or admob-->
+    <string name="ad_type">admob</string>
+
+    <!--    if you use facebook, you can register one app id on admob too to put in here to avoid crash-->
+    <string name="admob_app_id">ca-app-pub-3940256099942544~3176710101</string>
+
+    <string name="publisher_id">pub-3940256099942544</string>
+    <string name="banner_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="interstitial_id">ca-app-pub-3940256099942544/1033173712</string>
+
+</resources>

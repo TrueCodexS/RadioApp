@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorPrimary">#ebdb34</color>
+    <color name="colorPrimaryDark">#ffea00</color>
+    <color name="colorAccent">#FFEF37</color>
+
+    <color name="give_permission_bg_color">#FFEB3B</color>
+
+    <!--background color of app-->
+    <color name="color_background">@color/grey</color>
+
+    <!--splash background color-->
+    <color name="color_splash_background">@color/colorPrimary</color>
+
+    <!--item loading more background color at the bottom-->
+    <color name="color_load_more_background">@color/white</color>
+
+    <!--background color of notification-->
+    <color name="color_noti_background">#80009b</color>
+
+    <!--background color of the flat grid, card grid or magic grid-->
+    <color name="card_view_background">@color/grey</color>
+
+    <!--tab layout background when using "Just ActionBar" Background mode-->
+    <color name="tab_background_color">@android:color/transparent</color>
+
+    <!--tab layout background when using "Full Background" mode-->
+    <color name="tab_overlay_color">#1fffffff</color>
+
+    <!--tab indicator color-->
+    <color name="tab_indicator_color">#ffffff</color>
+
+    <!--tab text color when focusing the tab-->
+    <color name="tab_text_focus_color">#ffffff</color>
+
+    <!--tab text color when no focus-->
+    <color name="tab_text_normal_color">#8Affffff</color>
+
+    <!--grid background color when you use the type grid ui-->
+    <color name="grid_view_bg_color">@color/colorPrimary</color>
+
+    <!--grid text color when you use the type grid ui-->
+    <color name="grid_view_color_main_text">#ffffff</color>
+
+    <!--grid subtext color when you use the type grid ui-->
+    <color name="grid_view_color_secondary_text">#8Affffff</color>
+
+    <!--list background color when you use the type list ui-->
+    <color name="list_view_bg_color">@color/white</color>
+
+    <!--list text color when you use the type list ui-->
+    <color name="list_view_color_main_text">#000000</color>
+
+    <!--list subtext color when you use the type list ui-->
+    <color name="list_view_color_secondary_text">#8A000000</color>
+
+    <!--list divider color when you use the type list ui-->
+    <color name="list_view_color_divider">#1f000000</color>
+
+    <!--icon color on action bar-->
+    <color name="icon_action_bar_color">@color/white</color>
+
+    <!--normal icon color on the app (FOR EXAMPLE: icon check in the tab themes)-->
+    <color name="icon_color">@color/white</color>
+
+    <!--progress color in the home screen-->
+    <color name="progressbar_color">#1EE96F</color>
+
+    <!--progress color in the splash screen-->
+    <color name="progressbar_splash">@color/white</color>
+
+    <!--ripple color when you press to the item on list or grid
+    (FOR EXAMPLE: you can see this color when you press one genre)-->
+    <color name="ripple_effect_color">@color/black</color>
+
+    <!--main text color in the home screen-->
+    <color name="main_color_text">#de000000</color>
+
+    <!--main subtext color in the home screen-->
+    <color name="main_color_secondary_text">#8A000000</color>
+
+    <!--main text color in the player screen-->
+    <color name="play_color_text">@color/white</color>
+
+    <!--main subtext color in the player screen-->
+    <color name="play_color_secondary_text">#8Affffff</color>
+
+    <!--dialog text color-->
+    <color name="dialog_color_text">#de000000</color>
+
+    <!--dialog subtext color-->
+    <color name="dialog_color_secondary_text">#8A000000</color>
+
+    <!--dialog accent color-->
+    <color name="dialog_color_accent">@color/colorAccent</color>
+
+    <!--dialog background color-->
+    <color name="dialog_bg_color">@color/white</color>
+
+    <!--default image background color-->
+    <color name="default_image_color">#dedede</color>
+
+    <!--default bottom player background color-->
+    <color name="bottom_player_bg_color">@color/colorPrimaryDark</color>
+
+    <!--seekbar color in the player screen-->
+    <color name="seek_bar_color">@color/colorAccent</color>
+
+    <!--float action button color in the player screen-->
+    <color name="float_button_color">@color/colorAccent</color>
+    <color name="ripple_button_color">#8Affffff</color>
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="grey">#dedede</color>
+    <!--overlay color-->
+    <color name="overlay_color">#1f000000</color>
+
+
+
+</resources>

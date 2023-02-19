@@ -1,0 +1,314 @@
+[
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_alpha_divider_small_verti.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/alpha_divider_small_verti.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_activity_single_radio.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_single_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow_next_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_arrow_next_white_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_outline_black_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_heart_outline_black_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_search_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_search_white_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_pink_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_heart_pink_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_flat_grid_theme.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_grid_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_heart_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_facebook_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_facebook_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_alpha_vertical_divider.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/alpha_vertical_divider.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_single_radio_detail.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_single_radio_detail.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_big_circle_img_default.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_big_circle_img_default.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_default_bg_app.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/default_bg_app.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow_back_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_arrow_back_white_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_flat_grid_genre.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_grid_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_progress_bar.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_logo_splash.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/logo_splash.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_card_list_radio.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_list_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_alpha_divider_large_verti.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/alpha_divider_large_verti.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_arrow_down_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_arrow_down_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_card_grid_genre.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_grid_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_sleep_mode_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_sleep_mode_white_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_skip_previous_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_skip_previous_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_footer.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_footer.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_skip_next_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_skip_next_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_single_notification_music.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_single_notification_music.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_default_image.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/default_image.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_dialog_sleep_time.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/dialog_sleep_time.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_multi_notification_music.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_multi_notification_music.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_card_grid_theme.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_grid_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_volume_max_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_volume_max_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_background_transparent.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/background_transparent.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_flat_grid_radio.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_grid_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_pause_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_pause_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_close_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_close_white_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_more_vert_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_more_vert_white_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/xml_file_paths.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/xml/file_paths.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/menu_menu_main.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_card_grid_radio.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_grid_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_flat_list_genre.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_list_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_circle_grey.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/circle_grey.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_toolbar.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_toolbar.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_dialog_term_of_condition.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/dialog_term_of_condition.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_card_list_theme.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_list_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_big_rect_img_default.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_big_rect_img_default.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_twitter_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_twitter_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_play_arrow_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_play_arrow_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_card_list_genre.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_list_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_insta_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_insta_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_website_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_website_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_activity_grant_permission.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_grant_permission.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_activity_show_url.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_show_url.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable_alpha_divider_hori.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable/alpha_divider_hori.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_drag_drop.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_drag_drop.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_flat_list_radio.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_list_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_fragment_drag_drop_detail.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/fragment_drag_drop_detail.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_activity_splash.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_notification_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_notification_24dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_heart_outline_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_heart_outline_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_rect_img_default.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_rect_img_default.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_item_flat_list_theme.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_list_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_volume_off_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_volume_off_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_share_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_share_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_close_white_36dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_close_white_36dp.png"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_activity_app_bar_main.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/layout_fragment_recyclerview.xml.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/fragment_recyclerview.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_share_white_24dp.png.flat",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/drawable-xxhdpi/ic_share_white_24dp.png"
+    }
+]

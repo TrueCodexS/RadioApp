@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RADIO KUTAI</string>
+    <string name="info_copyright">© 2022 RADIO KUTAI</string>
+    <string name="title_home_screen">RADIO KUTAI</string>
+
+    <string name="title_settings">Pengaturan</string>
+    <string name="info_loading">Mohon tunggu…</string>
+    <string name="title_yes">Ya</string>
+    <string name="title_no">Tidak</string>
+    <string name="title_ok">OK</string>
+    <string name="title_cancel">Batal</string>
+    <string name="title_info">Informasi</string>
+    <string name="title_options">Pilihan</string>
+    <string name="title_confirm">Konfirmasi</string>
+    <string name="title_warning">Peringatan</string>
+    <string name="title_share">Bagikan</string>
+    <string name="title_back">Kembali</string>
+    <string name="title_unknown">Tidak diketahui</string>
+    <string name="title_about_us">Tentang kami</string>
+    <string name="title_done">Selesai</string>
+    <string name="title_search">Cari</string>
+    <string name="title_no_data">Tidak ada data</string>
+    <string name="title_rate_me">Beri penilaian</string>
+
+    <string name="info_lose_internet">Tidak ada koneksi internet, silahkan coba ulang!</string>
+    <string name="info_empty">Silakan masukkan kata kunci!</string>
+    <string name="info_close_app">Apakah Anda ingin keluar dari aplikasi??</string>
+    <string name="info_server_error">Kami tidak dapat terhubung ke server. Silakan coba lagi!</string>
+    <string name="info_press_again_to_exit">Tekan tombol Kembali lagi untuk keluar dari aplikasi</string>
+    <string name="info_loading_more">Memuat Lebih Banyak…</string>
+
+    <string name="icon_play">&#xea7d;</string>
+    <string name="icon_add">&#xea81;</string>
+    <string name="icon_check">&#xe867;</string>
+    <string name="icon_chevron_right">&#xe876;</string>
+    <string name="icon_menu">&#xe8cf;</string>
+    <string name="icon_pause">&#xea64;</string>
+    <string name="icon_heart">&#xe9b6;</string>
+    <string name="icon_heart_outline">&#xe9b5;</string>
+    <string name="icon_share">&#xeac0;</string>
+    <string name="icon_comment">&#xe8a1;</string>
+    <string name="icon_play_outline">&#xea7b;</string>
+    <string name="icon_pause_outline">&#xea60;</string>
+    <string name="icon_info">&#xe9d5;</string>
+    <string name="icon_chevron_left">&#xe875;</string>
+
+    <string name="info_error_sdcard">Penyimpanan Anda hampir penuh itu sebabnya kami tidak dapat memulai aplikasi. Harap bersihkan penyimpanan Anda</string>
+    <string name="info_permission_denied">Maaf izin ditolak. Kami tidak dapat membuka aplikasi ini di perangkat Anda, silakan coba lagi nanti.</string>
+
+    <string name="info_share_app">Mari kita mulai dengan %1$s sekarang %2$s</string>
+    <string name="title_more_apps">Aplikasi lainnya</string>
+    <string name="title_contact_us">Kontak Kami</string>
+    <string name="title_menu_share">Bagikan</string>
+
+    <string name="title_tab_top_chart">Ramayana FM</string>
+    <string name="title_tab_radios">Radio</string>
+<!--    <string name="title_tab_discover">Wilayah Radio</string>-->
+    <string name="title_tab_favorite">Favorit</string>
+    <string name="title_tab_themes">Tema</string>
+
+    <string name="title_privacy_policy">Kebijakan Privasi</string>
+    <string name="title_term_of_use">Ketentuan Penggunaan</string>
+    <string name="title_facebook">Facebook</string>
+    <string name="title_twitter">Twitter</string>
+    <string name="title_website">Website</string>
+    <string name="title_instagram">Instagram</string>
+
+    <string name="format_buffering">Buffering: %1$s</string>
+    <string name="format_bitrate">Bitrate: %1$s</string>
+
+    <string name="info_content_share">%1$s di Android!\nCoba lihat\n%2$s</string>
+    <string name="info_connect_to_play">Harap sambungkan ke internet untuk memutar radio ini</string>
+    <string name="info_play_error">Maaf kami tidak dapat memutar radio ini saat ini, Kami akan kembali sesegera mungkin</string>
+
+    <string name="new_bottom_sheet_behavior">com.behavior.model.YPYBottomSheetBehavior</string>
+    <string name="info_single_radio_error">Data radio salah. Silahkan dicek lagi</string>
+
+    <string name="title_sleep_mode">Sleep Mode</string>
+    <string name="title_off">OFF</string>
+    <string name="format_minutes">%1$s menit</string>
+    <string name="format_minute">%1$s menit</string>
+
+    <string name="info_radio_ended_title">Radio berakhir</string>
+    <string name="info_radio_ended_sub">Anda dapat mengubah ke radio baru atau memutar lagi.</string>
+    <string name="info_connection_lost">Sambungkan ke internet untuk bermain lagi</string>
+
+    <string name="format_term_and_conditional"><![CDATA[Terima kasih telah memilih <b>%1$s</b>.<br>Dengan menggunakan aplikasi ini, Anda harus menyetujui . kami <a href=\"%2$s\"><b>Syarat penggunaan</b></a> dan <a href=\"%3$s\"><b>Kebijakan Privasi</b></a>.]]></string>
+    <string name="title_agree">Ya saya setuju</string>
+    <string name="format_request_permission"><![CDATA[Terima kasih telah memilih <b>%1$s</b>. Tolong beri kami izin di bawah ini:<br><br><b>SDCARD PERMISSION:</b> Ini akan membantu kami untuk menyimpan daftar radio favorit Anda.]]></string>
+    <string name="title_give_it">Mulai</string>
+
+    <string name="title_setting_ads" >Mengatur Iklan</string>
+
+</resources>

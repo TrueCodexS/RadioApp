@@ -1,0 +1,12 @@
+{
+  "status": 200,
+  "msg": "success",
+  "datas": [
+    {
+      "url_endpoint": "https://app.indonesiastreaming.com/radiokutai",
+      "api_key": "eHJhZGlvcGVyZmVjdGFwcA",
+      "lastfm_api_key": "your_last_fm_key",
+      "cache_expiration": 0
+    }
+  ]
+}

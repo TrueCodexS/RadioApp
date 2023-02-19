@@ -1,0 +1,824 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/a0327fd8ea5399d8e8bfd5525f8a63963e4abc16/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bfa80acda479063e6f0b175d9d07722dfe48c5d">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de02135f8ad54a6f211cced521cbcbdb8bd4b93b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/a7e11843fa33dc1dc486e6cf6fc300cc00409f3d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="16795a75616fe3ba9df9ae4af09202145e3a26dc">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d83a76e095ab897e17ac6eef4a09e2875ecd39bd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/8a06e3fbb305b026c21207f063c51a3a97aaf154/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6bd32b72098fecf44dcab3808a11e6b9fcb86b7b">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ac6d0cb51c387a59b28ef988e00cc7947f755d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/8a6a057c2e87429c2498ee2e26151b84284569dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1c4ae24ce3c755b3ef7d79a343acfadfb0b097e">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3b7ab2c8e37fb3f2db2efc85399b98c0931b1b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/355c2e45d8bb41e588ed75d217891b8cf099e2c0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3305fe8fabbf56b45fa503d29d691bc84290ff23">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_67724c3a0a268368298b0832272a68d3549819d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_cf4b884cbc7cf45baf37b84ecd922ca1a1cf285d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/c80e2db54665f6f16851bb267f72183273473210/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="67355078cd30daae43f62ba47a4663ee6edb976e">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_5c6e648f34efa1a90b5cb6e2ff5fed1a7d86c48c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/f6a8326176c2626263692aec0637201f3ad2a485/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efee41814d465b82c8e90c488de79d0349103f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/da0c4f925663a1c01f7f74c7bac1ece7808f1f2c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7ac13885faad37ab40b1dbb7890b2a476163f1fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.0_0a491074584f9d696a27c9f22a7dbdb39598ab0c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/6d2531c0f6cba18d725e42843bc6097879208e1a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a22d14a4ee12a1fc2e765eb280d94ea73efa630">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cca759600ef0263d988c3259b3a5aaa995ae948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/8854d9ed0fc458572e0e50bc5ba6ad0cb640a2bf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_afc85b77b7ab1beff4b4c94b9ef541b2eb98c1bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/05b16d44848a7c4cc6606de76711880dcc6b9968/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9940f1858efba340b24aebf4b6a65e40455bc97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/9b8c631d84172bb3fbc9f972df7a6986ef504153/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ebd34b0c2f90b0f1ae576bcfcc8250769b9c4e4">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44108c612e43567c11fbcc738617f532148d3f0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/ed9c0dc4beebb5aac2d7948f3b98cf5830331188/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a43035a1c810fd10a647f54fc1166288cf29572">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab03001b28a8217c6d1d7626d0535584a11a3031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/120e13d125485ec1871540ef91fb3a0fdc9951dc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0357f2015795268c4a2acd3ff304c6d42b2f2e34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/64fbd93990010d6e99581a559ea259c57506a726/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b35ff61463403c8aa7820fc2fa7caf6a29e31c2c">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c46e60acabfd793253af5dc7997ab4194b4e6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/4f245fd19ef1cc8d902dc1f3b8cb202a71d06b23/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0104ad58141a070cdfe5858016ff41255984e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/070301a654fc977e6146abfc23756aa0a86f9f27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4677f6f310d5327f76c7ace262d776b7bf5eb58">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_903fefd37b128b4878a9e60333eb3d1af5f8592b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/d5e1ce47d0800005524fe66fdf0c608280da2bfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5363327d8da365d05ecb29c4a272f0d355e53c14/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/0274fca02708c82d5e215fc0933e82c976e31b40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52f4541e66a53c22179655d7e9c6fccf12cba86a">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2b9b1ff5a64308438923ef94123cf2f97e3d3c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/115a1d3f9fb644df16616a31deb77dbbec0be827/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="722acae466ccefebedf8a6631384e83bf3139f7c">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_896fdc2ab021df0932859b84a55aaeb69d7d11c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/7a1972eca51f9f6e7701f2221014674d9f829fee/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="73d3d4e86f3d6da0dd1987f7cff9fb07d5a36132">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37c581fc6848a31dfd3426d915f69091fcc76edc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/3ed446bb451c7188dde6dfeb14f27a417cf5ccf4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a846ddbf5bf88dee5f89d4dffe22c864f576d9b0">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5e65920f4c6ab7af41d475ec386a03e16dc643dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_2e051206ba955812d3b353da6309934f7c761ceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.4/6404f77b92ec723cc132e825afe85a07da85ee6/systembartint-1.0.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.4_26105840d86fc8110491d0dfb60951e5a8dbb9e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/1ee24cf028301981368ba106feee50b001902c97/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a88eaa7f9a31907def9a7968367475bdf5170be">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7efad8e36dbf264df1119d9482032d84369c9460/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/aa79811b039a3af317e6b685979fe8f96d5c8a7e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f9a84a2abeacf8319ab4d5ea2e869ebb27c3e09">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ac65287c842d4e87f96ee6c329b02a77a578399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/a0837d48c1b1875bd0ada3b0498241542945c354/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621fa40f796917a67697951e49ab1122bfb9c7b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_34807cd71f6d4c9d58eeed18856705d57e110ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/32ddf8e40563ea74b9d1b4aca97c60562e483c8d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7d91443ab77ce860fc9d12dba57d8ae0c0c1f7b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/05b16d44848a7c4cc6606de76711880dcc6b9968/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9940f1858efba340b24aebf4b6a65e40455bc97a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/8490f0a0f0a319f8d56d53c98b0fb8fe8cd6cb5d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57e01e062b08e50caf39786867a3cdd87714bac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/7f51ab037468b35443bfa621c1f979929b5610a5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b24e0a6d84a759f2094cbb27afd5ac9cb30275c9">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7c488ec2d9adf5c761c0b86939d58d0b3b18b55c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/7aa3b16e389b1448171c0f89fcbda2cd9bdb7b68/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ed6a3e5ba01e2c4283ccbfca31671d3447e7acf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/f6a8326176c2626263692aec0637201f3ad2a485/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_efee41814d465b82c8e90c488de79d0349103f42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/0b4beb1520e17c857b2bbf662109ab2a6f21ed27/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="31abcff1d93243e1d25afda575266ca6219fadd1">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07311218b8feca42817a40dff7042887d26223f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/2db6d513385e2826488c2c3e32de22886b9ee74c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c079cef9a94567811fba68dc9263137153cd7a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/c4e57f36baf2ef80bdd076e652688b458904e670/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7bbca2b0f0ef1033d65acebe7b92de6a6b7e278">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4277aa7b1dbbd8bf14af41d7514e56e31aed87bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/5ae28ca9ae3b89d40ccd61c3f9625689bc4a87cf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef0e926de4ec20c998d1abd23231c5b37739ec21">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0be1cfdccf76f89dc57bc9b0f407a8795194394e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/940964f1ce60a75c3664dd1f68e2c88c1009b98f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_63c1cba185bb159753133ae3a9956d17146624c4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/62fc09d5d2c361a8a51a625df99594c12d487d58/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2defcef9e850c4edd4d2d188594bb2fa33fa1c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/AndroidTools/adt-bundle-mac-x86_64/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_2013926823d1b4389b6d863b90e05db3ee4a21d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/bc4552bdbd2a03c2bf8924a8455dcfbf0e2ae540/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bac97150719e3dfae3ab1d38d6ccb187935bfac8">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a9236f164fa3ff7fdcd686059c769d3df77fb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/fabeb8deadcb50004987883649feaf30f73e9c12/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc987989a5b6a23cc00d436f97cbf82e644c739d">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c8a09791137b5e4cabb4a858c390c54e106441c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/d6e7a5c04079a47606d19f3e8f925b1a9761f047/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b52a9313f5e1618e8833db560e2cb6c4c720b77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/120e13d125485ec1871540ef91fb3a0fdc9951dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0357f2015795268c4a2acd3ff304c6d42b2f2e34/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/9b8c631d84172bb3fbc9f972df7a6986ef504153/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1ebd34b0c2f90b0f1ae576bcfcc8250769b9c4e4">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_44108c612e43567c11fbcc738617f532148d3f0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0bf9182b764af7c94b360b19c73fbdf539da92db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/7a1972eca51f9f6e7701f2221014674d9f829fee/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="73d3d4e86f3d6da0dd1987f7cff9fb07d5a36132">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_37c581fc6848a31dfd3426d915f69091fcc76edc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/a0327fd8ea5399d8e8bfd5525f8a63963e4abc16/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5bfa80acda479063e6f0b175d9d07722dfe48c5d">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_de02135f8ad54a6f211cced521cbcbdb8bd4b93b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/0274fca02708c82d5e215fc0933e82c976e31b40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="52f4541e66a53c22179655d7e9c6fccf12cba86a">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a2b9b1ff5a64308438923ef94123cf2f97e3d3c9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/ed9c0dc4beebb5aac2d7948f3b98cf5830331188/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a43035a1c810fd10a647f54fc1166288cf29572">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ab03001b28a8217c6d1d7626d0535584a11a3031/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/6d2531c0f6cba18d725e42843bc6097879208e1a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1a22d14a4ee12a1fc2e765eb280d94ea73efa630">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cca759600ef0263d988c3259b3a5aaa995ae948/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.13.0_34807cd71f6d4c9d58eeed18856705d57e110ac1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/a0837d48c1b1875bd0ada3b0498241542945c354/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6a2bcb61342d09fe9acf55c9daf63961c8866cc0">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621fa40f796917a67697951e49ab1122bfb9c7b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/1cd2972db7389eb8bf97aa4341d6cb8fdc835e38/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6ffb49ca203d632acf53f66229f6a40cd01034c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.readystatesoftware.systembartint/systembartint/1.0.4/6404f77b92ec723cc132e825afe85a07da85ee6/systembartint-1.0.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="06404f77b92ec723cc132e825afe85a07da85ee6">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/systembartint-1.0.4_26105840d86fc8110491d0dfb60951e5a8dbb9e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/090c82bc32fed86a23260c88547209305594b457/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d9ea7562d43b952ade8f2435018b7046ac65d5cf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/32c67baebabb2569900d2ed5beec437a7d636de5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_fed9e24c6af7215c4b21f5bbd7c73ea36a067b6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9947cb188d9cf68f275a62f74aaecdf3e2bb9bfb">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_69572a9c1bff6f09b1832701421026b44d3663eb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/070301a654fc977e6146abfc23756aa0a86f9f27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b4677f6f310d5327f76c7ace262d776b7bf5eb58">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_903fefd37b128b4878a9e60333eb3d1af5f8592b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.8.1/4d060ca3190df0eda4dc13415532a12e15ca5f11/okhttp-3.8.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4d060ca3190df0eda4dc13415532a12e15ca5f11">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.8.1_2e051206ba955812d3b353da6309934f7c761ceb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/c9f8dc05dd8510fb799ccded8b5c307600644c77/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbd665a66aae5114f98ab9e9c3d4811f78907ad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/5c45f5830d6c9c88c712c5066e471842ab8b0ed0/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48f114cc6b165699dc0d3bfd49c6be75f988dc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/c80e2db54665f6f16851bb267f72183273473210/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ac094121e75b4b87432beb9305d70c68ec6dcab">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9b435494dfb1e366e26f0dde83d704ef3b9933b6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/115a1d3f9fb644df16616a31deb77dbbec0be827/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="722acae466ccefebedf8a6631384e83bf3139f7c">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_896fdc2ab021df0932859b84a55aaeb69d7d11c5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/4f245fd19ef1cc8d902dc1f3b8cb202a71d06b23/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e0104ad58141a070cdfe5858016ff41255984e4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/5c45f5830d6c9c88c712c5066e471842ab8b0ed0/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_48f114cc6b165699dc0d3bfd49c6be75f988dc85/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/2db6d513385e2826488c2c3e32de22886b9ee74c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4c079cef9a94567811fba68dc9263137153cd7a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/0b4beb1520e17c857b2bbf662109ab2a6f21ed27/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="31abcff1d93243e1d25afda575266ca6219fadd1">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_07311218b8feca42817a40dff7042887d26223f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/5ae28ca9ae3b89d40ccd61c3f9625689bc4a87cf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ef0e926de4ec20c998d1abd23231c5b37739ec21">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0be1cfdccf76f89dc57bc9b0f407a8795194394e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/c9f8dc05dd8510fb799ccded8b5c307600644c77/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_cbd665a66aae5114f98ab9e9c3d4811f78907ad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/5c7943c5f3e1513b27ac1cc73d3f865e30eaf173/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="96c9e074db04656ab37f18c5a3bbb314225c416a">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_849b4139008ac1db2aa2cc05016f8509ef5380e6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_47759e0ccf4a8304cbf9047c2db491d589955db8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/7aa3b16e389b1448171c0f89fcbda2cd9bdb7b68/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ed6a3e5ba01e2c4283ccbfca31671d3447e7acf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/1812628c663bc032d75440f428a49f8d9fd9e132/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c733e9d1b065d940a08f2fca0ff920dfc08d94cc">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7291e972c16b0b880b7c8725db9838dac9fbad26/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/717772ff33d355173eecf1530e8399e15490f74b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71eeda136047cd889c96631f443ea89b12ece4fe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/8490f0a0f0a319f8d56d53c98b0fb8fe8cd6cb5d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_57e01e062b08e50caf39786867a3cdd87714bac9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/b4cbafed2759e03e593cc42ce857d987ff272c3b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0778b635a29c162f2ac3646a856f570529bad6c2">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8967a61a2b1f4f414cc7240d1daeca7ad46c4a88/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/0e0a0b9f595c81f7cea566dbfc386c5b39860ee8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f29ec834f6b1407f41029320d0032300f70f85c3">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_14b54a4ae09883329636b57f94a89d68e36c5f48/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.8.1/bc373fb6bc7bca3035041b924f158fd2b946ee8d/butterknife-annotations-8.8.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc373fb6bc7bca3035041b924f158fd2b946ee8d">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/butterknife-annotations-8.8.1_cf4b884cbc7cf45baf37b84ecd922ca1a1cf285d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/bc4552bdbd2a03c2bf8924a8455dcfbf0e2ae540/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bac97150719e3dfae3ab1d38d6ccb187935bfac8">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5a9236f164fa3ff7fdcd686059c769d3df77fb69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/64fbd93990010d6e99581a559ea259c57506a726/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b35ff61463403c8aa7820fc2fa7caf6a29e31c2c">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5c46e60acabfd793253af5dc7997ab4194b4e6e7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/c4e57f36baf2ef80bdd076e652688b458904e670/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a7bbca2b0f0ef1033d65acebe7b92de6a6b7e278">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4277aa7b1dbbd8bf14af41d7514e56e31aed87bf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/aa79811b039a3af317e6b685979fe8f96d5c8a7e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="9f9a84a2abeacf8319ab4d5ea2e869ebb27c3e09">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2ac65287c842d4e87f96ee6c329b02a77a578399/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/fabeb8deadcb50004987883649feaf30f73e9c12/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bc987989a5b6a23cc00d436f97cbf82e644c739d">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6c8a09791137b5e4cabb4a858c390c54e106441c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/57a2edabb51090e12cd095278bfa20d70e244999/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0ea99cd322da8f152a97d1b8d86e3c2f3bcf092e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/8a6a057c2e87429c2498ee2e26151b84284569dd/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a1c4ae24ce3c755b3ef7d79a343acfadfb0b097e">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b3b7ab2c8e37fb3f2db2efc85399b98c0931b1b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/f94a189b229a363402915d1840c832aa50652a65/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dd5de3b3e54c5934057b5c817860db55f9df8dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/dotrungbao/.android/build-cache/d6e7a5c04079a47606d19f3e8f925b1a9761f047/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="/Volumes/Data/DBAndroidStudioWS/TPlaces/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b52a9313f5e1618e8833db560e2cb6c4c720b77/classes.dex" />
+    </item>
+
+</items>

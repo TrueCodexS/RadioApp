@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-mdpi-v4/values-mdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/values-mdpi/dimens.xml",
+                    "from": {
+                        "startLines": "6,2,5,7,3,4",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "215,19,164,258,66,116",
+                        "endColumns": "41,45,49,45,48,46",
+                        "endOffsets": "252,60,209,299,110,158"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "55,97,143,193,239,288",
+                        "endColumns": "41,45,49,45,48,46",
+                        "endOffsets": "92,138,188,234,283,330"
+                    }
+                }
+            ]
+        }
+    ]
+}

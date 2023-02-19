@@ -1,0 +1,114 @@
+[
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_list_genre.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_list_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_flat_list_genre.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_list_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_footer.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_footer.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_progress_bar.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_progress_bar.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_splash.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_sleep_time.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/dialog_sleep_time.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_flat_list_radio.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_list_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_app_bar_main.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_app_bar_main.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_grant_permission.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_grant_permission.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/dialog_term_of_condition.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/dialog_term_of_condition.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_single_radio.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_single_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_show_url.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/activity_show_url.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_list_radio.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_list_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_flat_grid_theme.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_grid_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_single_notification_music.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_single_notification_music.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_flat_list_theme.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_list_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_toolbar.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_toolbar.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_drag_drop_detail.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/fragment_drag_drop_detail.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_flat_grid_radio.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_grid_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_multi_notification_music.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_multi_notification_music.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_list_theme.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_list_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_grid_theme.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_grid_theme.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_grid_genre.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_grid_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_flat_grid_genre.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_flat_grid_genre.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_drag_drop.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_drag_drop.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_single_radio_detail.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_single_radio_detail.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_card_grid_radio.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/item_card_grid_radio.xml"
+    },
+    {
+        "merged": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_recyclerview.xml",
+        "source": "/Users/deviakbar_1/AndroidStudioProjects/xRadio/app/src/main/res/layout/fragment_recyclerview.xml"
+    }
+]
